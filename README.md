@@ -47,8 +47,6 @@ ahmad@terminal:~$ ./github_stats.sh
 <div align="center">
 
 <img src="./profile/stats.svg" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-el-abdallah&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF41&dates=00FF41&currStreakNum=39FF14&sideNums=39FF14" width="49%" />
-
 <img src="./profile/top-langs.svg" width="49%" />
 
 </div>
