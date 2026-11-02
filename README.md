@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=180&section=header&text=Ahmad%20El%20Abdallah&fontColor=39FF14&fontSize=48&fontAlignY=50&animation=fadeIn&desc=Cybersecurity%20Student&descAlignY=75&descColor=00FF41&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=60&lines=whoami+%3D%3E+Ahmad+El+Abdallah;Cybersecurity+Student+%40+Applied+Science+University;Penetration+Testing+%7C+Network+Security+%7C+Cloud+Security;sudo+systemctl+start+ctf.service;Always+learning.+Always+probing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=800&height=60&lines=whoami+%3D%3E+Ahmad+El+Abdallah;Cybersecurity+Student+%40+ASU;Penetration+Testing+%7C+Network+Security;Cloud+Security+%28Azure%29+%7C+CTF+Player;sudo+systemctl+start+ctf.service;Always+learning.+Always+probing." alt="Typing SVG" />
 
 </div>
 
